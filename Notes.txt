@@ -1,0 +1,7 @@
+Convert this notebook into a python file and run the pipeline using Visual Studio Code.
+
+We used the best regression model, i.e., Random Forest Regressor.
+Used a small data set.
+
+We didn't fine tuned(for simplicity) but used just three models.
+
